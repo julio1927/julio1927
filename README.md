@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning web technologies
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I loeve guitar and I am a geek for technology
+- ⚡ Fun fact: I love guitar and I am a geek for technology
 
 ### Connect with me:
 

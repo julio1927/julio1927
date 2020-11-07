@@ -1,7 +1,7 @@
 ### Hello, I'm Julio Rivas - aka Julio1927 👋
 ## I'm a Graduate and Developer!!
 
-- 🌱 I’m currently learning web technologies 🤣
+- 🌱 I’m currently learning web technologies
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I loeve guitar and I am a geek for technology
